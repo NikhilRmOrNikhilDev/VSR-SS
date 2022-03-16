@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #009ff0;
+    color: white;
+    font-style: italic;
+}
+h4{
+    font-style: normal;
+}
+@media (max-width: 868) {
+    h1{
+        font-size: 15px !important;
+    }
+    h4{
+        font-size: 1px !important;
+    }
+}
